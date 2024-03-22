@@ -21,4 +21,4 @@ R0: Formaldehyde concentration time series measured at the Ford Environemntal Sc
 R0_b: Formaldehyde concentration time series measured at the Ford Environemntal Science & Technology Building site starting on 25 Jul. 2022. The Pico v Ultra time series regression is used to correct the 3 min average, differential HCHO data reported by the Ultra i.e. y=1.27*[HCHO_Ultra]+0.24. This is not a final correction to this data.
 R1: Formaldehyde concentration time series measured at the Ford Environemntal Science & Technology Building site starting on 25 Jul. 2022. The 2023 standard addition calibration conducted for the Ultra is used to correct the 3 min integrated, differential HCHO data. The regression applied is [HCHO]=(y-0.28)/0.77.
 R2: Data averaged to 1 h resolution per the request of the EPA.
-R2_b: Data averaged to 1 minute resolution for public release.
+R2_b: Data averaged to 1 minute resolution for public release. Ultra is stationed at the GT site unitl Aug 2023, where it was brought to the SDK site for the final intercomparison.
