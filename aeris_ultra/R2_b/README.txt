@@ -15,7 +15,6 @@ INSTRUMENT MIRA Ultra Gas Analyzer; https://aerissensors.com/ultra-series/
 DATA INFO: All data in parts per billion (ppb), averaged to 1 min. Processed using MATLAB R2023a.
 UNCERTAINTY: Shutter et al. (2019) (https://doi.org/10.5194/amt-12-6079-2019) determined an uncertainty of 10% + 0.3 ppb. Airgas HCHO standard has uncertainty of +/- 10 %, resulting measurement uncertainty is 14% + 0.3 ppb. Standard addition slopes agree within 10% of manufacturer calibration. Instrument precision calculated using Allen-Werle curve and scrubbed air measurments (Mouat et al. 2024). Data is reported here at 1 min time resolution with precision of 0.24 ppb.
 DM CONTACT INFO: Asher P. Mouat; amouat3@gatech.edu
-STIPULATIONS ON USE: Use of these data requires prior approval from the PI.
 OTHER_COMMENTS: Missing periods result from spikes/drops in pressure or temperature, setup issues, exhaustion of HCHO scrubber used to determine instrument baseline, power outages, instrument issues with laser-locking, or other possible external influences tampering with data.
 REVISION:
 R0: Formaldehyde concentration time series measured at the Ford Environemntal Science & Technology Building site starting on 25 Jul. 2022. Initial version, processed on 6-9-2023 by A. P. Mouat (amouat3@gatech.edu). PLEASE NOTE: data in this particular iteration will likely be subject to a correction after further calibration and intercomparison between the Pico, the Ultra, and the Picarro is conducted, and is therefore not finalized.
