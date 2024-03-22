@@ -15,7 +15,6 @@ INSTRUMENT INFO: Picarro G2307 Gas Concentration Analyzer; https://www.picarro.c
 DATA INFO: All data in parts per billion (ppb), averaged to 1 min from 1 Hz. Processed using MATLAB R2023a.
 UNCERTAINTY: Manufacturer reported measurement uncertainty for Picarro G2307 is +/- 10 %. Initial calibration (8 Oct. 2021) with Apel-Riemer standard has uncertainty of +/- 5 %, resulting measurement uncertainty is +/- 10 %. Second calibration (13 Sep 2022) conducted with Airgas standard with an uncertainty of +/- 10 %, resulting in 10 % uncertainty. Calibration slopes agree within 2.5 %. Instrument precision calculated using Allen-Werle curve and scrubbed air measurments. Data is reported here at 1 min time resolution with precision of 150 ppt.
 DM CONTACT INFO: Asher P. Mouat; amouat3@gatech.edu
-STIPULATIONS ON USE: Use of these data requires prior approval from the PI.
 OTHER_COMMENTS: Missing periods result from spikes/drops in pressure or temperature, setup issues (e.g. H2O in inlet), exhaustion of HCHO scrubber used to determine instrument baseline, or other possible external influences tampering with data.
 REVISION:
 R0: Formaldehyde concentration time series measured at the Environmental Protection Division's South Dekalb site starting on 12 Oct. 2021. Initial version, processed on 12-12-2022 by A. P. Mouat (amouat3@gatech.edu)
